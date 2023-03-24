@@ -1,0 +1,9 @@
+[submodule "hulc-trajectories"]
+	path = hulc-trajectories
+	url = https://huggingface.co/datasets/ezipe/hulc-trajectories-public
+[submodule "lcd-seeds"]
+	path = lcd-seeds
+	url = https://huggingface.co/datasets/ezipe/lcd-seeds-public
+[submodule "hulc-baselines-30"]
+	path = hulc-baselines-30
+	url = https://huggingface.co/datasets/ezipe/hulc-baselines-30/
